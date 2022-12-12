@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.parent{
+    background-color: blue;
+   
+}
+
+
+
+h1{
+    color: white;
+    margin-right: 1000;
+}
+
+
+.liste a{
+  color:white;
+ flex: 1;
+ margin: 10;
+ align-items: center;
+  
+}
+ div ul li {
+  display: inline;
+ }
+
+.header{
+display: flex;
+flex-direction: row;
+align-items: center;
+
+  
+  
+  }
+  li a:hover {
+color: gold;
+  }
+  .leg{
+    color: white;
+    
+  }
+h2{
+    text-align: center;
+    color: gold;
+    font-size: 50px;
+}
+input[type=text] {
+    color: white;
+    width: 200;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;}
+ input[type=Email] {
+    color: white;
+        width: 200;
+        padding: 10px 10px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;}
+ input[type=password] {
+            width: 200;
+            padding: 10px 10px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;}  
+ input[type=number] {
+                width: 200;
+                padding: 10px 10px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;}
+          
+input[type=submit]{
+    width: 90;
+    height: 40;
+    background-color:black;
+    color: white;
+    border-radius: 4px;
+ 
+}
+input[type=submit]:hover {
+    background-color:white;
+    color: black;
+   
+   
+  }
+  .test{
+    width:250;
+
+
+
+  }
+  .form{
+    padding-left: 550;
+  }
+  footer{
+  background-color: rgb(90, 77, 77);
+  }
+  pre{
+    color: yellow;
+
+  }
+  pre h1{
+    color: white;
+  }
+  footer {
+    background-color: #353535;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+  

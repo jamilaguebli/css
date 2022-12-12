@@ -1,0 +1,125 @@
+ *{
+  padding: 0px;
+  margin: 0px;
+ } 
+  
+  #container{
+  
+    background-color: rgb(88, 86, 128);
+}
+.titre{
+  color: white;
+ margin-right: 1000;
+
+}
+.liste a{
+  color:white;
+ flex: 1;
+ margin: 10;
+ align-items: center;
+  
+}
+ div ul li {
+  display: inline;
+ 
+  
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+      
+  
+  }
+
+  
+ 
+ 
+ 
+ li a:hover {
+  color: gold;
+
+ 
+    }
+    .parent{
+      background-color: rgb(154, 229, 252);
+    
+    }
+    h2{
+      text-align: center;
+    }
+   
+.test {
+ 
+  margin-bottom: 10px;
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 40px;
+
+}
+   .grid{
+    background-color: rgb(22, 22, 133);
+    width:250;
+    height: 250;
+
+   } 
+   .para{
+    color: yellow;
+    text-align: center;
+    font-weight:bold;
+    font-size: 25;
+   }
+   .desc{
+    font-size:18px ;
+    color: white;
+   
+
+   }
+   button{
+   border-color: white;
+    background-color: rgb(22, 22, 133);
+    color: white;
+    width: 50;
+    height: 30;
+    border-radius: 20;
+   }
+   button:hover{
+    color: yellow;
+    border-color: yellow;
+   
+   }
+   footer{
+    background-color: rgb(109, 95, 95);
+  
+   
+   }
+   nav a img{
+       width: 50;
+       height: 50;
+     object-position: center;
+   }
+   .test{
+    color:white;
+
+    
+   }
+  b{
+    color: yellow;
+    font-weight: bold;
+   }
+   
+   footer {
+    background-color: #353535;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+
+
+ 
